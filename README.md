@@ -1,2 +1,3 @@
-# attiny806_breakout
-Breakout board for the ATtiny806 
+PLEASE VISIT MY WEBSITE BEFORE USING ANY OF THE PROVIDED FILES!
+
+https://matti04.net/files/attiny/
